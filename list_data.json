@@ -1,0 +1,29 @@
+{
+	"classes": [
+		{
+			"Number": "INFO 202",
+			"Name": "Information Organization and Retrieval",
+			"Professor": "David Bamman",
+		},
+		{
+			"Number": "INFO 253A",
+			"Name": "Front-End Web Architecture",
+			"Professor": "Kay Ashaolu",
+		},
+		{
+			"Number": "INFO 213",
+			"Name": "User Interface Design and Development",
+			"Professor": "Niloufar Salehi",
+		},
+		{
+			"Number": "INFO 290",
+			"Name": "Product Design Studio",
+			"Professor": "Jamie Reffell",
+		},
+		{
+			"Number": "INFO 206A",
+			"Name": "Intro to Programming & Computation",
+			"Professor": "John Chuang",
+		}
+	]
+}
