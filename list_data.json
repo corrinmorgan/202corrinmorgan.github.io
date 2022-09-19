@@ -27,3 +27,5 @@ var table_content = {
 		}
 	]
 }
+
+showDataJSON.innerHTML = 'new content'
