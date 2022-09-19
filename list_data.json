@@ -4,26 +4,31 @@
 			"Number": "INFO 202",
 			"Name": "Information Organization and Retrieval",
 			"Professor": "David Bamman",
+			"Units": "3",
 		},
 		{
 			"Number": "INFO 253A",
 			"Name": "Front-End Web Architecture",
 			"Professor": "Kay Ashaolu",
+			"Units": "3",
 		},
 		{
 			"Number": "INFO 213",
 			"Name": "User Interface Design and Development",
 			"Professor": "Niloufar Salehi",
+			"Units": "3"
 		},
 		{
 			"Number": "INFO 290",
 			"Name": "Product Design Studio",
 			"Professor": "Jamie Reffell",
+			"Units": "4"
 		},
 		{
 			"Number": "INFO 206A",
 			"Name": "Intro to Programming & Computation",
 			"Professor": "John Chuang",
+			"Units": "4"
 		}
 	]
 }
