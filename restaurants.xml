@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE restaurant SYSTEM "restaurants.dtd">
+<!DOCTYPE restaurants SYSTEM "restaurants.dtd">
 
 <restaurant id="0">
     <name>Kabana</name>
